@@ -4,7 +4,7 @@
 
 ####  1. `BME280_testing` : Test the working of BME280 sensor. It works using I2C communication with the ESP32. 
 <p align="center">
-  <img src="https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/06/ESP32-bme280_schematic.jpg?resize=768%2C669&quality=100&strip=all&ssl=1png" width="540" height="350"><br>
+  <img src="https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/06/ESP32-bme280_schematic.jpg?quality=100&strip=all&ssl=1png" width="540" height="350"><br>
 </p>
 
 - In the code, `Wire.h` and `SparkFunBME280.h` libraries have been used. [Scroll to Libraries](https://github.com/hippyaki/IoT-Workshop-IEEE-RAS-PESU/tree/master/WebServer%20on%20ESP32#libraries) 
